@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @androidR00t
+- 👋 Hi, I’m @walter
 - 👀 I’m interested in electronics 
-- 🌱 I’m currently learning electronics technician for industrial engineering
+- 🌱 I’m currently learning electronics technician for industrial engineering , computer enthusiast
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
